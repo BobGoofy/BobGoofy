@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BobGoofy
+- 👋 Hi, I’m @BobGooofy
 - 👀 I’m interested in DAO
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on DAOs
